@@ -1,7 +1,9 @@
 Site Title: Task Manager
+
 This repository contains a simple PHP project for managing tasks. The project includes user registration, login functionality, and a task manager.
 
 To access this project from your local repository and server, first:
+
 Do a quick Setup -->>
     Clone the Repository:
 

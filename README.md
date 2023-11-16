@@ -29,6 +29,7 @@ Access the project in your browser: http://localhost:8000 (This url varies accor
 
 
 User Registration (How to register?):
+Before everything, you need to register first.
     Access the registration page: http://localhost:8000/registration/register.php
     Fill in the registration form with a unique username, a valid email, and a password (at least 8 characters).
     Click the "Register" button.
